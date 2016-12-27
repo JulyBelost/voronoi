@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; font-family: Arial, sans-serif; color: #2e2e2e; }
+html{  width: 100%; height: 100%; }
+body { height: 100%; width: 100%; }
+#header { border-bottom: 1px solid #bebebe; height: 38px; width: 100%; background-color: #e5e5e5; position: fixed; top: 0; left: 0; z-index: 1000;}
+#header2 { border-bottom: 1px solid #bebebe; height: 38px; width: 100%; background-color: #e5e5e5; z-index: 0; }
+#name { float: left; font-family: 'Molengo', arial, serif; font-size: 30px; text-shadow: 1px 1px 0px #f0f0f0; color: #202020; padding-left: 10px;}
+#myName { font-family: 'Molengo', arial, serif; font-size: 20px; color: #202020;}
+#links { float: right; font-family: 'Cantarell', arial, serif; height: 100%; padding-top:10px; font-size: 20px; letter-spacing: 0.0125em; word-spacing: 0.1em; padding-right: 5px; }
+#links a {padding-left: 12px; text-decoration: none; color: #565656; text-shadow: 1px 1px 0px #f0f0f0; }
+#links a:hover { color: #767676; text-shadow: 1px 1px 0px #f0f0f0;}
+#randTitle {  margin-left: 35%; margin-right: 35%; width: 20%;}
+#footer { clear: both; width: 800px; margin-left: auto; margin-right: auto; border-top: 1px solid #bebebe; font-family: Arial, sans-serif; font-size: 14px; color:#bebebe;}
